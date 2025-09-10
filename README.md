@@ -30,3 +30,4 @@ Images
 
 3. Close the file.
 At the command prompt, type `nano`
+[Heading IDs] (#heading-ids)
