@@ -29,6 +29,7 @@ Images
     ![Tux, the Linux mascot](/assets/images/tux.png)
 
 3. Close the file.
+<<<<<<< HEAD
 iAt the command prompt, type `nano`
 [Heading IDs] (#heading-ids)
 
@@ -81,3 +82,10 @@ sequenceDiagram
     Note left of Bob: Bob thinks
     Bob->>Alice: I'm good thanks, how about you?
     Alice-->>Bob: I'm doing great.
+At the command prompt, type `nano`
+[Heading IDs] (#heading-ids)}
+erDiagram
+CUSTOMER ||--o{ ORDER : places
+ORDER ||--|{ LINE-ITEM : contains
+CUSTOMER}|..|{ DELIVERY-ADDRESS : uses
+
