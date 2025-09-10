@@ -32,7 +32,7 @@ Images
 iAt the command prompt, type `nano`
 [Heading IDs] (#heading-ids)
 
-4. UserStory 006
+UserStory 006
 This is a help file for makin a table in markdown.
 
 To add a table, use three or more hyphens (-) to create each columns header, and use pipes (|) to separate each column.
