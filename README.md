@@ -29,4 +29,4 @@ Images
     ![Tux, the Linux mascot](/assets/images/tux.png)
 
 3. Close the file.
-
+At the command prompt, type `nano`
