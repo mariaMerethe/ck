@@ -17,3 +17,4 @@ Help for making a Blockquote:
 <
 < The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 That is so funny! :joy:
+![An image of a dog](https://i.sstatic.net/Id207.png)
