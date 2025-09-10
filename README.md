@@ -10,3 +10,4 @@ This is a list!
 - Second item
 - Third item
 That is so funny! :joy:
+![An image of a dog](https://i.sstatic.net/Id207.png)
