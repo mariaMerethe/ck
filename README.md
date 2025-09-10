@@ -16,5 +16,17 @@ Help for making a Blockquote:
 < Dorothy followed her through many of the beautiful rooms in her castle.
 <
 < The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
-That is so funny! :joy:
+T
+hat is so funny! :joy:
 ![An image of a dog](https://i.sstatic.net/Id207.png)
+
+
+Userstory-003
+Images
+1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+
+3. Close the file.
+
