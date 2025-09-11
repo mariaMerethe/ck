@@ -104,3 +104,7 @@ First Term
 Second Term
 :this is the definition of the second term.
 :this is another definition of the second term.
+
+- [X] Write the press release
+- [X] Update the website
+- [X] Contact the media
