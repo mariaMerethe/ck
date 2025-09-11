@@ -131,3 +131,31 @@ Bil diagram
    PK = Primary key,
    FK = Foreign key,
    UK = Unique key
+
+---
+titel: Animal  example training class diagram
+---
+
+classDiagram
+   note "From Duck till Zebra"
+   Animal <|-- Posche
+   note for Duck "can fly/ncan swim/ncan dive/ncan help in debuggin"
+   Animal <|-- Fish
+   Animal <|-- Zebra
+   Animal : +int age
+   Animal : +String gender
+   Animal: +isMammal()
+   Animal: +mate()
+   class Duck{
+       +String beakColor
+       +swim()
+       +quack()
+   }
+   class Fish{
+       -int sizeInFeet
+       -canEat()
+   }
+   class Zebra{
+       +bool is_wild
+       +run()
+   } 
