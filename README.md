@@ -115,3 +115,9 @@ Gone to a party :partybomb: see you tomorrow.
 That was so funny! :joy:
 
 I need to highlight these ==very important words==.
+
+TTFHW = Time To First Hello World, very important to have an easy TTFHW for new person to get in the project. ReadME should have the information. 
+Like 1. npm vite@latest. 
+2. npm i. 
+3. Ready to create your first react component...
+Random helping information.
