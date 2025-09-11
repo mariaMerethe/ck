@@ -135,7 +135,7 @@ Bil diagram
 ---
 titel: Animal  example training class diagram
 ---
-
+```mermaid
 classDiagram
    note "From Duck till Zebra"
    Animal <|-- Posche
