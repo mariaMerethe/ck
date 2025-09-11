@@ -98,3 +98,9 @@ CUSTOMER}|..|{ DELIVERY-ADDRESS : uses
 "lastName" : "Kings",
 "age": 2
 }
+First Term
+:this is the definition of the first term.
+
+Second Term
+:this is the definition of the second term.
+:this is another definition of the second term.
