@@ -55,23 +55,6 @@ If your Markdown application supports HTML, wich mine those, you can use the mar
 This will look like:
 I need to highlight these <mark>Very important words</mark>.
 
-Userstory 016
-This is a help file for making a sequence diagram in markdown.
-
-## Sample sequence diagram
-Here is a hello world example.
-First you write three backticks and the word "mermaid", no space in between.
-Then you write:
-```mermaid
-sequenceDiagram
-    participant Bob
-    participant Alice
-
-    Bob->>Alice: Hello
-    Alice-->>Bob: How are you?
-    Note left of Bob: Bob thinks
-    Bob->>Alice: I'm good thanks, how about you?
-    Alice-->>Bob: I'm doing great.
 At the command prompt, type `nano`
 [Heading IDs] (#heading-ids)}
 erDiagram
