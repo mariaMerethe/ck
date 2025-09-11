@@ -131,31 +131,3 @@ Bil diagram
    PK = Primary key,
    FK = Foreign key,
    UK = Unique key
-
-    CAR ||--o{ DRIVER-MARIO :
-  allows
-    CAR{
-        string registrationNumber
-  PK
-        string make
-        string model
-        strint[]parts
-    }  
-    PERSON ||--O{NAMED-DRIVER :
-  is
-    PERSON{
-        string driverLicense PK
-  "The License #"
-             string(99) firstName
-  "Only 99 characters are allowed"
-             string lastName
-             string phone UK
-             int age
-     }
-     NAMED-DRIVER {
-        string
-   carRegistrationNumber PK, FK
-              string driverLicence PK,
-   FK
-     }
-      MANUFACTURE only one to zero or more CAR : makes
