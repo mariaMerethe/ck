@@ -29,7 +29,7 @@ Images
     ![Tux, the Linux mascot](/assets/images/tux.png)
 
 3. Close the file.
-<<<<<<< HEAD
+
 iAt the command prompt, type `nano`
 [Heading IDs] (#heading-ids)
 
@@ -88,4 +88,7 @@ erDiagram
 CUSTOMER ||--o{ ORDER : places
 ORDER ||--|{ LINE-ITEM : contains
 CUSTOMER}|..|{ DELIVERY-ADDRESS : uses
-
+| Syntax     | Description | Text        |
+| :---       | :-----:     |     ---:    |
+| Header     | Title       | Here's this |
+| Paragarph  | Text        | And more    |
