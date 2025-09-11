@@ -158,4 +158,5 @@ classDiagram
    class Zebra{
        +bool is_wild
        +run()
-   } 
+   }
+OBS glöm inte att skriva " ```mermaid " är viktigt för och få fram ett diagram som animal diagramet 
