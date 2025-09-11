@@ -121,3 +121,5 @@ Like 1. npm vite@latest.
 2. npm i. 
 3. Ready to create your first react component...
 Random helping information.
+
+HEJ ALLESAMMANS! Rolig commit för träning... xD
