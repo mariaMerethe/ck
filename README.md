@@ -47,4 +47,4 @@ To highlight words, you use two equal signs (= =) before and after words.
 Example:
 I need to highlight these = =very important words= =.
 Will look like:
-I need to highlight these ==very important words==.
+I need to highlight these ==very== ==important== ==words==.
