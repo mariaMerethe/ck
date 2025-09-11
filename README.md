@@ -92,3 +92,9 @@ CUSTOMER}|..|{ DELIVERY-ADDRESS : uses
 | :---       | :-----:     |     ---:    |
 | Header     | Title       | Here's this |
 | Paragarph  | Text        | And more    |
+```
+{
+"firstName": "Commit",
+"lastName" : "Kings",
+"age": 2
+}
