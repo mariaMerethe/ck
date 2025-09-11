@@ -43,8 +43,12 @@ To add a table, use three or more hyphens (-) to create each columns header, and
 
 Userstory 015
 This is a help file for highlighting certain words in Markdown.
-To highlight words, you use two equal signs (= =) before and after words.
-Example:
-I need to highlight these = =very important words= =.
-Will look like:
+To highlight words, you can do it in two different ways, depending on what markdown processor you've got.
+The first way is to put two equal signs before and after the words, like this:
+I need to highlight these ==very important words==.
+
+As you can see, you can see the equal signs. That's because this syntax is an extended Markdown feature.
+
+If your Markdown application supports HTML, wich mine those, you can use the mark HTML tag instead. (mark)(/mark) but pointing.
+This will look like:
 I need to highlight these <mark>Very important words</mark>.
