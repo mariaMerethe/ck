@@ -40,3 +40,11 @@ To add a table, use three or more hyphens (-) to create each columns header, and
 |---|---|
 |Header | Title|
 |Paragraph | Text |
+
+Userstory 015
+This is a help file for highlighting certain words in Markdown.
+To highlight words, you use two equal signs (= =) before and after words.
+Example:
+I need to highlight these = =very important words= =.
+Will look like:
+I need to highlight these ==very important words==.
