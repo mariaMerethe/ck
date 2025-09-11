@@ -108,3 +108,7 @@ Second Term
 - [X] Write the press release
 - [X] Update the website
 - [X] Contact the media
+
+Gone to a party :partybomb: see you tomorrow.
+
+That was so funny! :joy:
