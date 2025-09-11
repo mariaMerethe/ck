@@ -62,17 +62,6 @@ This is a help file for making a sequence diagram in markdown.
 Here is a hello world example.
 First you write three backticks and the word "mermaid", no space in between.
 Then you write:
-
-sequenceDiagram
-    participant Bob
-    participant Alice
-
-    Bob->>Alice: Hello
-    Alice-->>Bob: How are you?
-    Note left of Bob: Bob thinks
-    Bob->>Alice: I'm good thanks, how about you?
-    Alice-->>Bob: I'm doing great.
-
 ```mermaid
 sequenceDiagram
     participant Bob
