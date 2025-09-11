@@ -55,13 +55,16 @@ I need to highlight these <mark>Very important words</mark>.
 
 Userstory 016
 This is a help file for making a sequence diagram in markdown.
-##Sample sequence diagram
+
+## Sample sequence diagram
 Here is a hello world example.
-```uml-sequence-diagram
-Title: Hello world example
-Bob->Alice: Hello
-Alice-->Bob: How are you?
-Note left of Bob; Bob thinks
-Bob->>Alice: Im good thanks, how about you?
-Alice-->Bob: Im doing great.
-```
+```mermaid
+sequenceDiagram
+    participant Bob
+    participant Alice
+
+    Bob->>Alice: Hello
+    Alice-->>Bob: How are you?
+    Note left of Bob: Bob thinks
+    Bob->>Alice: I'm good thanks, how about you?
+    Alice-->>Bob: I'm doing great.
