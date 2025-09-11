@@ -1,6 +1,7 @@
 # ck
 Help file for Bold & Italic:
-This test is ***really important***.
+This test is ***really important***. this do 3 of those * stars and you get italic and bold text.
+
 Help File for making a link in Markdown:
 
 [LINK]
