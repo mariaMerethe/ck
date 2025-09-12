@@ -104,6 +104,7 @@ Bil diagram
    UK = Unique key
 
 titel: Animal  example training class diagram
+```marmeid
 classDiagram
    note "From Duck till Zebra"
    Animal <|-- Posche
@@ -130,7 +131,7 @@ classDiagram
 
 Jag skapar en konflikt för träning, hejdåå! :)
    }
-```marmeid
+
 ####Vill ni träna på markdown? 
 Här får ni länken [Klicka här så kommer ni till länken ](https://www.markdowntutorial.com/)
 
