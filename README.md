@@ -1,4 +1,4 @@
-# ck
+## ck
 Help file for Bold & Italic:
 This test is ***really important***. this do 3 of those * stars and you get italic and bold text.
 
@@ -126,4 +126,6 @@ classDiagram
    class Zebra{
        +bool is_wild
        +run()
-   }
+}
+
+Jag skapar en konflikt för träning, hejdåå! :)
