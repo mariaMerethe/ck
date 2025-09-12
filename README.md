@@ -65,7 +65,6 @@ CUSTOMER}|..|{ DELIVERY-ADDRESS : uses
 | :---       | :-----:     |     ---:    |
 | Header     | Title       | Here's this |
 | Paragarph  | Text        | And more    |
-```
 {
 "firstName": "Commit",
 "lastName" : "Kings",
@@ -104,10 +103,7 @@ Bil diagram
    FK = Foreign key,
    UK = Unique key
 
----
 titel: Animal  example training class diagram
----
-```mermaid
 classDiagram
    note "From Duck till Zebra"
    Animal <|-- Posche
